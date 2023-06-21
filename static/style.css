@@ -1,0 +1,36 @@
+body {
+    background-color: black;
+}
+.error {
+    font-weight: bold;
+    color: mediumvioletred;
+}
+
+.info {
+    font-weight: bold;
+    color: darkgreen;
+}
+.navbar-brand{
+    color: white;
+    margin-left: 20px;
+}
+.navbar{
+    background-color: black;
+}
+.navbar-toggler{
+    color: white;
+}
+
+/* .nav-link {
+    background-color: black;
+} */
+
+.offcanvas-body{
+    font-weight: bolder;
+}
+
+.card{
+    margin-left: 270px;
+    margin-top: 20px;
+    background-color: black;
+}
